@@ -6,7 +6,7 @@
 A collection of research papers and software related to explainability in graph machine learning.
 
 <p align="center">
-  <img width="400" src="https://github.com/AstraZeneca/awesome-explainable-graph-reasoning/raw/master/gnn_explainer.png">
+  <img width="1000" src="https://github.com/AstraZeneca/awesome-explainable-graph-reasoning/raw/master/gnn_explainer.png">
 </p>
 
 ## Contents  
