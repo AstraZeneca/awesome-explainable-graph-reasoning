@@ -11,10 +11,11 @@ A collection of research papers and software related to explainability in graph 
 
 ## Contents  
 
-1. [Survey Papers]()  
-2. [Software]()  
-3. [Software]()  
-4. [Software]()  
+1. [Explainable Predictions]()  
+2. [Explainable Reasoning]()  
+3. [Software]()
+4. [Survey Papers]()
+
 --------------------------------------------------------------------------------
 
 **License**
