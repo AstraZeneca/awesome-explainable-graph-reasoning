@@ -1,1 +1,1 @@
-# awesome-explainable-graph-reasoning
+# Awesome Explainable Graph Reasoning
