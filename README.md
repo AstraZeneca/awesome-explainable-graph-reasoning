@@ -12,7 +12,7 @@ A collection of paper and software about explainability in graph machine learnin
 ## Contents  
 
 1. [Survey Papers]()  
-2. [Software])  
+2. [Software]()  
 --------------------------------------------------------------------------------
 
 **License**
