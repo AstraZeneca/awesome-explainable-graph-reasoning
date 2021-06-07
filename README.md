@@ -22,4 +22,4 @@ A collection of graph machine learning about explainability.
 
 **License**
 
-- [Apache 2.0](https://github.com/AstraZeneca/awesome-machine-learning-for-combination-therapy/blob/master/LICENSE)
+- [Apache 2.0](https://github.com/AstraZeneca/awesome-explainable-graph-reasoning/blob/master/LICENSE)
