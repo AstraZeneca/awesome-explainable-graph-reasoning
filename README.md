@@ -14,7 +14,7 @@ A collection of research papers and software related to explainability in graph 
 1. [Explainable Predictions]()  
 2. [Explainable Reasoning]()  
 3. [Software]()
-4. [Survey Papers]()
+4. [Survey Papers](https://github.com/AstraZeneca/awesome-explainable-graph-reasoning/blob/master/chapters/survey.md)
 
 --------------------------------------------------------------------------------
 
