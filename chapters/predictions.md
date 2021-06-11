@@ -6,7 +6,8 @@
   - Dongsheng Luo, Wei Cheng, Dongkuan Xu, Wenchao Yu, Bo Zong, Haifeng Chen, Xiang Zhang
   - [[Paper]](https://arxiv.org/abs/2011.04573)
   - [[Reference Code]](https://github.com/flyingdoog/PGExplainer)
-  - [[Code]](https://github.com/flyingdoog/PGExplainer)
+  - [[Code]](https://github.com/LarsHoldijk/RE-ParameterizedExplainerForGraphNeuralNetworks)
+  - [[Code]](https://openreview.net/attachment?id=tt04glo-VrT&name=supplementary_material)
 
 - **GNNExplainer: Generating Explanations for Graph Neural Networks (NeurIPS 2019)**
   - Rex Ying, Dylan Bourgeois, Jiaxuan You, Marinka Zitnik, Jure Leskovec
