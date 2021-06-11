@@ -2,9 +2,9 @@
 
 ### Perturbation Based Methods
 
-- **SYNERGxDB: an Integrative Pharmacogenomic Portal to Identify Synergistic Drug Combinations for Precision Oncology (NeurIPS 2020)**
-  - Heewon Seo, Denis Tkachuk, Chantal Ho, Anthony Mammoliti, Aria Rezaie, Seyed Ali Madani Tonekaboni, Benjamin Haibe-Kains
-  - [[Paper]](https://academic.oup.com/nar/article/48/W1/W494/5842189)
+- **Parameterized Explainer for Graph Neural Network (NeurIPS 2020)**
+  - Dongsheng Luo, Wei Cheng, Dongkuan Xu, Wenchao Yu, Bo Zong, Haifeng Chen, Xiang Zhang
+  - [[Paper]](https://arxiv.org/abs/2011.04573)
   - [[Code]](https://github.com/flyingdoog/PGExplainer)
 
 - **GNNExplainer: Generating Explanations for Graph Neural Networks (NeurIPS 2019)**
