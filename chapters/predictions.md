@@ -11,7 +11,7 @@
 - **GNNExplainer: Generating Explanations for Graph Neural Networks (NeurIPS 2019)**
   - Rex Ying, Dylan Bourgeois, Jiaxuan You, Marinka Zitnik, Jure Leskovec
   - [[Paper]](https://arxiv.org/abs/1903.03894)
-  - [[Code]](https://github.com/RexYing/gnn-model-explainer)
+  - [[Reference Code]](https://github.com/RexYing/gnn-model-explainer)
 
 ### Surrogate Model Based Methods
 
