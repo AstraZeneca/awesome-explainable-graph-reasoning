@@ -4,6 +4,11 @@ The listing conforms the taxonomy introduced in this [[survey paper]](https://ar
 
 ### Perturbation Based Methods
 
+- **On Explainability of Graph Neural Networks via Subgraph Explorations (ICML 2021)**
+  - Hao Yuan, Haiyang Yu, Jie Wang, Kang Li, Shuiwang Ji
+  - [[Paper]](https://arxiv.org/abs/2102.05152)
+  - [[Reference Code]](https://github.com/divelab/DIG)
+
 - **Interpreting Graph Neural Networks for NLP With Differentiable Edge Masking (ICLR 2021)**
   - Michael Sejr Schlichtkrull, Nicola De Cao, Ivan Titov
   - [[Paper]](https://openreview.net/forum?id=WznmQa42ZAx)
