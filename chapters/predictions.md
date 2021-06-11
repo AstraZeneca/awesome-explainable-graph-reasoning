@@ -1,9 +1,9 @@
-# Prediction Explanationa
+## Prediction Explanations
 
-## Perturbation Based Methods
+### Perturbation Based Methods
 
-## Surrogate Model Based Methods
+### Surrogate Model Based Methods
 
-## Decomposition Based Methods
+### Decomposition Based Methods
 
-## Gradient Based Methods
+### Gradient Based Methods
