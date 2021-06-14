@@ -1,4 +1,4 @@
-### Survey Papers
+### Software Library Papers
 
 - **DIG: A Turnkey Library for Diving into Graph Deep Learning Research (Arxiv 2021)**
   - Meng Liu, Youzhi Luo, Limei Wang, Yaochen Xie, Hao Yuan, Shurui Gui, Haiyang Yu, Zhao Xu, Jingtun Zhang, Yi Liu, Keqiang Yan, Haoran Liu, Cong Fu, Bora Oztekin, Xuan Zhang, Shuiwang Ji
