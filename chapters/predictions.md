@@ -14,6 +14,10 @@ The listing conforms the taxonomy introduced in this [[survey paper]](https://ar
   - [[Paper]](https://openreview.net/forum?id=WznmQa42ZAx)
   - [[Reference Code]](https://github.com/MichSchli/GraphMask)
 
+- **On Explainability of Graph Neural Networks via Subgraph Explorations (OpenReview 2021)**
+  - Hao Yuan, Haiyang Yu, Jie Wang, Kang Li, Shuiwang Ji
+  - [[Paper]](https://openreview.net/pdf?id=uDN8pRAdsoC)
+
 - **Parameterized Explainer for Graph Neural Network (NeurIPS 2020)**
   - Dongsheng Luo, Wei Cheng, Dongkuan Xu, Wenchao Yu, Bo Zong, Haifeng Chen, Xiang Zhang
   - [[Paper]](https://arxiv.org/abs/2011.04573)
