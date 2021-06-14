@@ -18,6 +18,10 @@ The listing conforms the taxonomy introduced in this [[survey paper]](https://ar
   - Thorben Funke, Megha Khosla, Avishek Anand
   - [[Paper]](https://openreview.net/pdf?id=uDN8pRAdsoC)
 
+- **Causal Screening to Interpret Graph Neural Networks (OpenReview 2020)**
+  - Xiang Wang, Yingxin Wu, An Zhang, Xiangnan He, Tat-seng Chua
+  - [[Paper]](https://openreview.net/forum?id=nzKv5vxZfge)
+
 - **Parameterized Explainer for Graph Neural Network (NeurIPS 2020)**
   - Dongsheng Luo, Wei Cheng, Dongkuan Xu, Wenchao Yu, Bo Zong, Haifeng Chen, Xiang Zhang
   - [[Paper]](https://arxiv.org/abs/2011.04573)
