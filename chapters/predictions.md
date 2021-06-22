@@ -50,6 +50,10 @@ The listing conforms the taxonomy introduced in this [[survey paper]](https://ar
   - Yue Zhang, David Defazio, Arti Ramesh
   - [[Paper]](https://arxiv.org/abs/2006.00305)
 
+- **PGM-Explainer: Probabilistic Graphical Model Explanations for Graph Neural Networksr (CORR 2020)**
+  - Minh N. Vu, My T. Thai
+  - [[Paper]](https://arxiv.org/pdf/2010.05788.pdf)
+
 ### Decomposition Based Methods
 
 ### Gradient Based Methods
