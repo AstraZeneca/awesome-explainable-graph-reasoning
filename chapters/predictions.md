@@ -36,13 +36,13 @@ The listing conforms the taxonomy introduced in this [[survey paper]](https://ar
 
 ### Surrogate Model Based Methods
 
-- **GraphSVX: Shapley Value Explanations for Graph Neural Networks (Corr 2021)**
+- **GraphSVX: Shapley Value Explanations for Graph Neural Networks (CORR 2021)**
   - Alexandre Duval, Fragkiskos D. Malliaros
   - [[Paper]](https://arxiv.org/abs/2104.10482)
   - [[Reference Code]](https://github.com/AlexDuvalinho/GraphSVX)
 
-- **GraphLIME:Local Interpretable Model Explanations for Graph Neural Networks (Corr 2020)**
-  - 
+- **GraphLIME:Local Interpretable Model Explanations for Graph Neural Networks (CORR 2020)**
+  - Qiang Huang, Makoto Yamada, Yuan Tian, Dinesh Singh, Dawei Yin, Yi Chang
   - [[Paper]](https://arxiv.org/pdf/2001.06216.pdf)
   - [[Reference Code]](https://github.com/WilliamCCHuang/GraphLIME)
 
