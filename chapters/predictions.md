@@ -41,10 +41,10 @@ The listing conforms the taxonomy introduced in this [[survey paper]](https://ar
   - [[Paper]](https://arxiv.org/abs/2104.10482)
   - [[Reference Code]](https://github.com/AlexDuvalinho/GraphSVX)
 
-- ** (Corr 2020)**
-  - Rex Ying, Dylan Bourgeois, Jiaxuan You, Marinka Zitnik, Jure Leskovec
-  - [[Paper]](https://arxiv.org/abs/1903.03894)
-  - [[Reference Code]](https://github.com/RexYing/gnn-model-explainer)
+- **GraphLIME:Local Interpretable Model Explanations for Graph Neural Networks (Corr 2020)**
+  - 
+  - [[Paper]](https://arxiv.org/pdf/2001.06216.pdf)
+  - [[Reference Code]](https://github.com/WilliamCCHuang/GraphLIME)
 
 ### Decomposition Based Methods
 
