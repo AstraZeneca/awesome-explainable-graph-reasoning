@@ -36,6 +36,16 @@ The listing conforms the taxonomy introduced in this [[survey paper]](https://ar
 
 ### Surrogate Model Based Methods
 
+- ** (Corr 2021)**
+  - Rex Ying, Dylan Bourgeois, Jiaxuan You, Marinka Zitnik, Jure Leskovec
+  - [[Paper]](https://arxiv.org/abs/1903.03894)
+  - [[Reference Code]](https://github.com/RexYing/gnn-model-explainer)
+
+- ** (Corr 2020)**
+  - Rex Ying, Dylan Bourgeois, Jiaxuan You, Marinka Zitnik, Jure Leskovec
+  - [[Paper]](https://arxiv.org/abs/1903.03894)
+  - [[Reference Code]](https://github.com/RexYing/gnn-model-explainer)
+
 ### Decomposition Based Methods
 
 ### Gradient Based Methods
