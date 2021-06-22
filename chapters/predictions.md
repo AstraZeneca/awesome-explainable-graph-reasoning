@@ -37,8 +37,8 @@ The listing conforms the taxonomy introduced in this [[survey paper]](https://ar
 ### Surrogate Model Based Methods
 
 - **GraphSVX: Shapley Value Explanations for Graph Neural Networks (Corr 2021)**
-  - Rex Ying, Dylan Bourgeois, Jiaxuan You, Marinka Zitnik, Jure Leskovec
-  - [[Paper]](https://arxiv.org/abs/1903.03894)
+  - Alexandre Duval, Fragkiskos D. Malliaros
+  - [[Paper]](https://arxiv.org/abs/2104.10482)
   - [[Reference Code]](https://github.com/AlexDuvalinho/GraphSVX)
 
 - ** (Corr 2020)**
