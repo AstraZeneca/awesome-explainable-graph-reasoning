@@ -46,6 +46,11 @@ The listing conforms the taxonomy introduced in this [[survey paper]](https://ar
   - [[Paper]](https://arxiv.org/pdf/2001.06216.pdf)
   - [[Reference Code]](https://github.com/WilliamCCHuang/GraphLIME)
 
+- **RelEX: A Model-Agnostic Relational Model Explainer(CORR 2020)**
+  - Qiang Huang, Makoto Yamada, Yuan Tian, Dinesh Singh, Dawei Yin, Yi Chang
+  - [[Paper]](https://arxiv.org/pdf/2001.06216.pdf)
+  - [[Reference Code]](https://github.com/WilliamCCHuang/GraphLIME)
+
 ### Decomposition Based Methods
 
 ### Gradient Based Methods
