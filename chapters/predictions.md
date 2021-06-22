@@ -49,7 +49,6 @@ The listing conforms the taxonomy introduced in this [[survey paper]](https://ar
 - **RelEX: A Model-Agnostic Relational Model Explainer (CORR 2020)**
   - Yue Zhang, David Defazio, Arti Ramesh
   - [[Paper]](https://arxiv.org/abs/2006.00305)
-  - [[Reference Code]](https://github.com/WilliamCCHuang/GraphLIME)
 
 ### Decomposition Based Methods
 
