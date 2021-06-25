@@ -75,10 +75,9 @@ The listing conforms the taxonomy introduced in this [[survey paper]](https://ar
   - [[Paper]](https://arxiv.org/abs/1909.10911v1)
   - [[Code]](https://github.com/DFKI-NLP/lrv)
 
-- **Layerwise Relevance Visualization in Convolutional Text Graph Classifiers (WS 2019)**
-  - Robert Schwarzenberg, Marc Hübner, David Harbecke, Christoph Alt, Leonhard Hennig
-  - [[Paper]](https://arxiv.org/abs/1909.10911v1)
-  - [[Code]](https://github.com/DFKI-NLP/lrv)
+- **Higher-Order Explanations of Graph Neural Networks via Relevant Walks (Arxiv 2020)**
+  - Thomas Schnake, Oliver Eberle, Jonas Lederer, Shinichi Nakajima, Kristof T. Schütt, Klaus-Robert Müller, Grégoire Montavon
+  - [[Paper]](https://arxiv.org/abs/2006.03589)
 
 - **Layerwise Relevance Visualization in Convolutional Text Graph Classifiers (WS 2019)**
   - Robert Schwarzenberg, Marc Hübner, David Harbecke, Christoph Alt, Leonhard Hennig
