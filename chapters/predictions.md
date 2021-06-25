@@ -5,8 +5,8 @@ The listing conforms the taxonomy introduced in this [[survey paper]](https://ar
 ### Perturbation Based Methods
 
 - **CF-GNNExplainer: Counterfactual Explanations for Graph Neural Networks (Arxiv 2021)**
-  - Hao Yuan, Haiyang Yu, Jie Wang, Kang Li, Shuiwang Ji
-  - [[Paper]](https://arxiv.org/abs/2102.05152)
+  - Ana Lucic, Maartje ter Hoeve, Gabriele Tolomei, Maarten de Rijke, Fabrizio Silvestri
+  - [[Paper]](https://arxiv.org/abs/2102.03322)
   - [[Reference Code]](https://github.com/a-lucic/cf-gnnexplainer)
 
 - **On Explainability of Graph Neural Networks via Subgraph Explorations (ICML 2021)**
