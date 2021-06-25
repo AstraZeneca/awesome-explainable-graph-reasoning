@@ -63,11 +63,9 @@ The listing conforms the taxonomy introduced in this [[survey paper]](https://ar
   - Minh N. Vu, My T. Thai
   - [[Paper]](https://arxiv.org/pdf/2010.05788.pdf)
 
-### Decomposition Based Methods
+### Decomposition and Gradient Integration Based Methods
 
 - **Explainability Techniques for Graph Convolutional Networks (ICML 2019)**
   - Federico Baldassarre, Hossein Azizpour
   - [[Paper]](https://arxiv.org/abs/1905.13686)
   - [[Code]](https://github.com/baldassarreFe/graph-network-explainability)
-
-### Gradient Based Methods
