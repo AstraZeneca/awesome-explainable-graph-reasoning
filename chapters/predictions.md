@@ -27,6 +27,10 @@ The listing conforms the taxonomy introduced in this [[survey paper]](https://ar
   - Thorben Funke, Megha Khosla, Avishek Anand
   - [[Paper]](https://openreview.net/pdf?id=uDN8pRAdsoC)
 
+- **Graph Neural Networks Including Sparse Interpretability (Arxiv 2020)**
+  - Chris Lin, Gerald J. Sun, Krishna C. Bulusu, Jonathan R. Dry, Marylens Hernandez
+  - [[Paper]](https://arxiv.org/abs/2007.00119)
+
 - **Causal Screening to Interpret Graph Neural Networks (OpenReview 2020)**
   - Xiang Wang, Yingxin Wu, An Zhang, Xiangnan He, Tat-seng Chua
   - [[Paper]](https://openreview.net/forum?id=nzKv5vxZfge)
