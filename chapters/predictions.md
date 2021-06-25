@@ -55,10 +55,15 @@ The listing conforms the taxonomy introduced in this [[survey paper]](https://ar
   - Yue Zhang, David Defazio, Arti Ramesh
   - [[Paper]](https://arxiv.org/abs/2006.00305)
 
-- **PGM-Explainer: Probabilistic Graphical Model Explanations for Graph Neural Networksr (CORR 2020)**
+- **PGM-Explainer: Probabilistic Graphical Model Explanations for Graph Neural Networkrk (CORR 2020)**
   - Minh N. Vu, My T. Thai
   - [[Paper]](https://arxiv.org/pdf/2010.05788.pdf)
 
 ### Decomposition Based Methods
+
+- **Explainability Techniques for Graph Convolutional Networks (ICML LRGSR 2020)**
+  - Federico Baldassarre, Hossein Azizpour
+  - [[Paper]](https://arxiv.org/abs/1905.13686)
+  - [[Code]](https://github.com/baldassarreFe/graph-network-explainability)
 
 ### Gradient Based Methods
