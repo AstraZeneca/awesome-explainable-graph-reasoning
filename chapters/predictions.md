@@ -74,3 +74,13 @@ The listing conforms the taxonomy introduced in this [[survey paper]](https://ar
   - Robert Schwarzenberg, Marc Hübner, David Harbecke, Christoph Alt, Leonhard Hennig
   - [[Paper]](https://arxiv.org/abs/1909.10911v1)
   - [[Code]](https://github.com/DFKI-NLP/lrv)
+
+- **Layerwise Relevance Visualization in Convolutional Text Graph Classifiers (WS 2019)**
+  - Robert Schwarzenberg, Marc Hübner, David Harbecke, Christoph Alt, Leonhard Hennig
+  - [[Paper]](https://arxiv.org/abs/1909.10911v1)
+  - [[Code]](https://github.com/DFKI-NLP/lrv)
+
+- **Layerwise Relevance Visualization in Convolutional Text Graph Classifiers (WS 2019)**
+  - Robert Schwarzenberg, Marc Hübner, David Harbecke, Christoph Alt, Leonhard Hennig
+  - [[Paper]](https://arxiv.org/abs/1909.10911v1)
+  - [[Code]](https://github.com/DFKI-NLP/lrv)
