@@ -61,7 +61,7 @@ The listing conforms the taxonomy introduced in this [[survey paper]](https://ar
 
 ### Decomposition Based Methods
 
-- **Explainability Techniques for Graph Convolutional Networks (ICML LRGSR 2020)**
+- **Explainability Techniques for Graph Convolutional Networks (ICML 2019)**
   - Federico Baldassarre, Hossein Azizpour
   - [[Paper]](https://arxiv.org/abs/1905.13686)
   - [[Code]](https://github.com/baldassarreFe/graph-network-explainability)
