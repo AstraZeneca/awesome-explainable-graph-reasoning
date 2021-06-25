@@ -24,7 +24,7 @@ The listing conforms the taxonomy introduced in this [[survey paper]](https://ar
 
 - **XGNN: Towards Model-Level Explanations of Graph Neural Networks (KDD 2020)**
   - Hao Yuan, Jiliang Tang, Xia Hu, Shuiwang Ji
-  - [[Paper]](https://arxiv.org/abs/2011.04573)
+  - [[Paper]](https://arxiv.org/abs/2006.02587)
   - [[Code]](https://github.com/rkoh-rq/XGNN)
 
 - **Parameterized Explainer for Graph Neural Network (NeurIPS 2020)**
