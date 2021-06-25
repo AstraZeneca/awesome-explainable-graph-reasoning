@@ -22,6 +22,11 @@ The listing conforms the taxonomy introduced in this [[survey paper]](https://ar
   - Xiang Wang, Yingxin Wu, An Zhang, Xiangnan He, Tat-seng Chua
   - [[Paper]](https://openreview.net/forum?id=nzKv5vxZfge)
 
+- **Parameterized Explainer for Graph Neural Network (KDD 2020)**
+  - Dongsheng Luo, Wei Cheng, Dongkuan Xu, Wenchao Yu, Bo Zong, Haifeng Chen, Xiang Zhang
+  - [[Paper]](https://arxiv.org/abs/2011.04573)
+  - [[Code]](https://github.com/rkoh-rq/XGNN)
+
 - **Parameterized Explainer for Graph Neural Network (NeurIPS 2020)**
   - Dongsheng Luo, Wei Cheng, Dongkuan Xu, Wenchao Yu, Bo Zong, Haifeng Chen, Xiang Zhang
   - [[Paper]](https://arxiv.org/abs/2011.04573)
