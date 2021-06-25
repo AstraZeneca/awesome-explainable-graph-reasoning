@@ -82,4 +82,4 @@ The listing conforms the taxonomy introduced in this [[survey paper]](https://ar
 - **Explainability Methods for Graph Convolutional Neural Networks (CVPR 2019)**
   - Phillip E. Pope, Soheil Kolouri, Mohammad Rostami, Charles E. Martin, Heiko Hoffmann
   - [[Paper]](https://openaccess.thecvf.com/content_CVPR_2019/html/Pope_Explainability_Methods_for_Graph_Convolutional_Neural_Networks_CVPR_2019_paper.html)
-  - [[Code]](https://github.com/DFKI-NLP/lrv)
+  - [[Code]](https://github.com/ndey96/GCNN-Explainability)
