@@ -4,6 +4,11 @@ The listing conforms the taxonomy introduced in this [[survey paper]](https://ar
 
 ### Perturbation Based Methods
 
+- **Generative Causal Explanations for Graph Neural Networks (ICML 2021)**
+  - Wanyu Lin, Hao Lan, Baochun Li
+  - [[Paper]](https://arxiv.org/abs/2104.06643)
+  - [[Reference Code]](https://github.com/wanyu-lin/ICML2021-Gem)
+
 - **CF-GNNExplainer: Counterfactual Explanations for Graph Neural Networks (Arxiv 2021)**
   - Ana Lucic, Maartje ter Hoeve, Gabriele Tolomei, Maarten de Rijke, Fabrizio Silvestri
   - [[Paper]](https://arxiv.org/abs/2102.03322)
