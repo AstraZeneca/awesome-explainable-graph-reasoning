@@ -98,6 +98,11 @@ The listing conforms the taxonomy introduced in this [[survey paper]](https://ar
   - Thomas Schnake, Oliver Eberle, Jonas Lederer, Shinichi Nakajima, Kristof T. Schütt, Klaus-Robert Müller, Grégoire Montavon
   - [[Paper]](https://arxiv.org/abs/2006.03589)
 
+- **Explainability Methods for Graph Convolutional Neural Networks (IJCNN 2020)**
+  - Jinlong Hu, Tenghui Li, Shoubin Dong
+  - [[Paper]](https://openaccess.thecvf.com/content_CVPR_2019/html/Pope_Explainability_Methods_for_Graph_Convolutional_Neural_Networks_CVPR_2019_paper.html)
+  - [[Code]](https://github.com/largeapp/gcn-lrp)
+
 - **Explainability Methods for Graph Convolutional Neural Networks (CVPR 2019)**
   - Phillip E. Pope, Soheil Kolouri, Mohammad Rostami, Charles E. Martin, Heiko Hoffmann
   - [[Paper]](https://openaccess.thecvf.com/content_CVPR_2019/html/Pope_Explainability_Methods_for_Graph_Convolutional_Neural_Networks_CVPR_2019_paper.html)
