@@ -14,6 +14,10 @@ The listing conforms the taxonomy introduced in this [[survey paper]](https://ar
   - [[Paper]](https://openreview.net/forum?id=WznmQa42ZAx)
   - [[Reference Code]](https://github.com/MichSchli/GraphMask)
 
+- **Explain Graph Neural Networks to Understand Weighted Graph Features in Node Classification (CD-MAKE 2020)**
+  - Xiaoxiao Li, Joao Saude
+  - [[Paper]](https://arxiv.org/abs/2002.00514)
+  -
 - **Hard Masking for Explaining Graph Neural Networks (OpenReview 2020)**
   - Thorben Funke, Megha Khosla, Avishek Anand
   - [[Paper]](https://openreview.net/pdf?id=uDN8pRAdsoC)
