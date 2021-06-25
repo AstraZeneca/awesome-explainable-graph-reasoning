@@ -26,7 +26,7 @@ The listing conforms the taxonomy introduced in this [[survey paper]](https://ar
 - **Contrastive Graph Neural Network Explanation (ICML 2020)**
   - Lukas Faber, Amin K. Moghaddam, Roger Wattenhofer
   - [[Paper]](https://arxiv.org/abs/2010.13663)
-  - [[Reference Code]](https://github.com/divelab/DIG)
+  - [[Reference Code]](https://github.com/lukasjf/contrastive-gnn-explanation)
 
 - **Hard Masking for Explaining Graph Neural Networks (OpenReview 2020)**
   - Thorben Funke, Megha Khosla, Avishek Anand
