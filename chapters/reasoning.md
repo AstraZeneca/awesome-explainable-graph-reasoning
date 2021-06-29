@@ -5,3 +5,8 @@
   - Rajarshi Das, Shehzaad Dhuliawala, Manzil Zaheer, Luke Vilnis, Ishan Durugkar, Akshay Krishnamurthy, Alex Smola, Andrew McCallum
   - [[Paper]](https://arxiv.org/abs/1711.05851)
   - [[Code]](https://github.com/shehzaadzd/MINERVA)
+
+- **DeepPath: A Reinforcement Learning Method for Knowledge Graph Reasoning (EMNLP 2017)**
+  - Wenhan Xiong, Thien Hoang, William Yang Wang
+  - [[Paper]](https://arxiv.org/abs/1707.06690)
+  - [[Code]](https://github.com/xwhan/DeepPath)
