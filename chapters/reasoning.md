@@ -2,7 +2,7 @@
 ### Explainable Reasoning
 
 
-- **DeepPath: A Reinforcement Learning Method for Knowledge Graph Reasoning (EMNLP 2021)**
+- **Neural Multi-Hop Reasoning With Logical Rules on Biomedical Knowledge Graphs (EWSC 2021)**
   - Wenhan Xiong, Thien Hoang, William Yang Wang
   - [[Paper]](https://arxiv.org/abs/1707.06690)
   - [[Code]](https://github.com/xwhan/DeepPath)
