@@ -2,7 +2,7 @@
 ### Explainable Reasoning
 
 
-- **Neural Multi-Hop Reasoning With Logical Rules on Biomedical Knowledge Graphs (EWSC 2021)**
+- **Neural Multi-Hop Reasoning With Logical Rules on Biomedical Knowledge Graphs (ESWC 2021)**
   - Yushan Liu, Marcel Hildebrandt, Mitchell Joblin, Martin Ringsquandl, Rime Raissouni, Volker Tresp
   - [[Paper]](https://openreview.net/forum?id=ncLDBiIv2n)
 
