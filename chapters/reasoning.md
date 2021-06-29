@@ -3,8 +3,8 @@
 
 
 - **Neural Multi-Hop Reasoning With Logical Rules on Biomedical Knowledge Graphs (EWSC 2021)**
-  - Wenhan Xiong, Thien Hoang, William Yang Wang
-  - [[Paper]](https://arxiv.org/abs/1707.06690)
+  - Yushan Liu, Marcel Hildebrandt, Mitchell Joblin, Martin Ringsquandl, Rime Raissouni, Volker Tresp
+  - [[Paper]](https://openreview.net/forum?id=ncLDBiIv2n)
   - [[Code]](https://github.com/xwhan/DeepPath)
 
 - **M-Walk: Learning to Walk over Graphs using Monte Carlo Tree Search (NeurIPS 2018)**
