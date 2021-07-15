@@ -1,11 +1,20 @@
 
 ### Explainable Reasoning
 
+- **Complex Query Answering with Neural Link Predictors (ICLR 2021, Outstanding Paper Award)**
+  - Erik Arakelyan, Daniel Daza, Pasquale Minervini, Michael Cochez
+  - [[Paper]](https://arxiv.org/abs/2011.03459)
+  - [[Code]](https://github.com/uclnlp/cqd)
 
 - **Neural Multi-Hop Reasoning With Logical Rules on Biomedical Knowledge Graphs (ESWC 2021)**
   - Yushan Liu, Marcel Hildebrandt, Mitchell Joblin, Martin Ringsquandl, Rime Raissouni, Volker Tresp
   - [[Paper]](https://openreview.net/forum?id=ncLDBiIv2n)
   - [[Code]](https://github.com/liu-yushan/PoLo)
+
+- **Learning Reasoning Strategies in End-to-End Differentiable Proving (ICML 2020)**
+  - Pasquale Minervini, Sebastian Riedel, Pontus Stenetorp, Edward Grefenstette, Tim Rocktäschel
+  - [[Paper]](https://arxiv.org/abs/2007.06477)
+  - [[Code]](https://github.com/uclnlp/ctp)
 
 - **Leveraging Demonstrations for Reinforcement Recommendation Reasoning over Knowledge Graphs (SIGIR 2020)** 
   - Kangzhi Zhao Xiting Wang Yuren Zhang Li Zhao Zheng Liu Chunxiao Xing Xing Xie
