@@ -22,3 +22,4 @@ A collection of research papers and software related to explainability in graph 
 **License**
 
 - [Apache 2.0](https://github.com/AstraZeneca/awesome-explainable-graph-reasoning/blob/master/LICENSE)
+--------------------------------------------------------------------------------
