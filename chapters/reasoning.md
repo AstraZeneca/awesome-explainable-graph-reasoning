@@ -25,6 +25,11 @@
   - [[Paper]](https://arxiv.org/abs/2005.00571)
   - [[Code]](https://github.com/derenlei/KG-RuleGuider)
 
+- **Reinforcement Knowledge Graph Reasoning for Explainable Recommendation (SIGIR 2019)**
+  - Yikun Xian, Zuohui Fu, S. Muthukrishnan, Gerard de Melo, Yongfeng Zhang
+  - [[Paper]](https://arxiv.org/abs/1906.05237)
+  - [[Code]](https://github.com/orcax/PGPR)
+
 - **M-Walk: Learning to Walk over Graphs using Monte Carlo Tree Search (NeurIPS 2018)**
   - Yelong Shen, Jianshu Chen, Po-Sen Huang, Yuqing Guo, Jianfeng Gao
   - [[Paper]](https://proceedings.neurips.cc/paper/2018/hash/c6f798b844366ccd65d99bc7f31e0e02-Abstract.html)
