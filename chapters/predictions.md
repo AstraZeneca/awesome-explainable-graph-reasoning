@@ -4,6 +4,11 @@ The listing conforms the taxonomy introduced in this [[survey paper]](https://ar
 
 ### Perturbation Based Methods
 
+- **Model agnostic generation of counterfactual explanations for molecules (ChemRxiv 2021)**
+  - Geemi P Wellawatte, Aditi Seshadri , Andrew D White
+  - [[Paper]](https://chemrxiv.org/engage/chemrxiv/article-details/6115baf04cb4797dc42df605)
+  - [[Reference Code]](https://github.com/ur-whitelab/exmol)
+
 - **Generative Causal Explanations for Graph Neural Networks (ICML 2021)**
   - Wanyu Lin, Hao Lan, Baochun Li
   - [[Paper]](https://arxiv.org/abs/2104.06643)
