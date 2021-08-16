@@ -25,6 +25,11 @@
   - [[Paper]](https://arxiv.org/abs/2005.00571)
   - [[Code]](https://github.com/derenlei/KG-RuleGuider)
 
+- **Differentiable Reasoning on Large Knowledge Bases and Natural Language (AAAI 2020, Oral)**
+  - Pasquale Minervini, Matko Bosnjak, Tim Rocktäschel, Sebastian Riedel, Edward Grefenstette
+  - [[Paper]](https://arxiv.org/abs/1912.10824)
+  - [[Code]](https://github.com/uclnlp/gntp)
+
 - **Reinforcement Knowledge Graph Reasoning for Explainable Recommendation (SIGIR 2019)**
   - Yikun Xian, Zuohui Fu, S. Muthukrishnan, Gerard de Melo, Yongfeng Zhang
   - [[Paper]](https://arxiv.org/abs/1906.05237)
