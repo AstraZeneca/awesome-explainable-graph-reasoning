@@ -6,6 +6,11 @@
   - [[Paper]](https://arxiv.org/abs/2011.03459)
   - [[Code]](https://github.com/uclnlp/cqd)
 
+- **CogKR: Cognitive Graph for Multi-hop Knowledge Reasoning (TKDE 2021)**
+  - Zhengxiao Du, Chang Zhou, Jiangchao Yao, Teng Tu, Letian Cheng, Hongxia Yang, Jingren Zhou, Jie Tang
+  - [[Paper]](https://ieeexplore.ieee.org/document/9512424)
+  - [[Code]](https://github.com/THUDM/CogKR)
+
 - **Neural Multi-Hop Reasoning With Logical Rules on Biomedical Knowledge Graphs (ESWC 2021)**
   - Yushan Liu, Marcel Hildebrandt, Mitchell Joblin, Martin Ringsquandl, Rime Raissouni, Volker Tresp
   - [[Paper]](https://openreview.net/forum?id=ncLDBiIv2n)
