@@ -11,6 +11,11 @@
   - [[Paper]](https://ieeexplore.ieee.org/document/9512424)
   - [[Code]](https://github.com/THUDM/CogKR)
 
+- **Is Multi-Hop Reasoning Really Explainable? Towards Benchmarking Reasoning Interpretability (Arxiv 2021)**
+  - Xin Lv, Yixin Cao, Lei Hou, Juanzi Li, Zhiyuan Liu, Yichi Zhang, Zelin Dai
+  - [[Paper]](https://arxiv.org/abs/2104.06751)
+  - [[Code]](https://github.com/THU-KEG/BIMR)
+
 - **Neural Multi-Hop Reasoning With Logical Rules on Biomedical Knowledge Graphs (ESWC 2021)**
   - Yushan Liu, Marcel Hildebrandt, Mitchell Joblin, Martin Ringsquandl, Rime Raissouni, Volker Tresp
   - [[Paper]](https://openreview.net/forum?id=ncLDBiIv2n)
