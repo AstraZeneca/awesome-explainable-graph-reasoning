@@ -4,3 +4,4 @@ Authors and contributors to awesome-explainable-graph-reasoning:
 - Gavin Edwards
 - Sebastian Nilsson
 - Pasquale Minervini
+- Stephen Bonner
