@@ -112,3 +112,10 @@ The listing conforms the taxonomy introduced in this [[survey paper]](https://ar
   - Phillip E. Pope, Soheil Kolouri, Mohammad Rostami, Charles E. Martin, Heiko Hoffmann
   - [[Paper]](https://openaccess.thecvf.com/content_CVPR_2019/html/Pope_Explainability_Methods_for_Graph_Convolutional_Neural_Networks_CVPR_2019_paper.html)
   - [[Code]](https://github.com/ndey96/GCNN-Explainability)
+
+### Concept Based Methods
+
+- **GCExplainer: Human-in-the-Loop Concept-based Explanations for Graph Neural Networks (ICML Workshop 2021)**
+  - Lucie Charlotte Magister, Dmitry Kazhdan, Vikash Singh, Pietro Liò
+  - [[Paper]](https://arxiv.org/abs/2107.11889)
+  - [[Code]](https://github.com/CharlotteMagister/GCExplainer)
