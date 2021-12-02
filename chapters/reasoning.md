@@ -1,6 +1,10 @@
 
 ### Explainable Reasoning
 
+- **Explainable Biomedical Recommendations via Reinforcement Learning Reasoning on Knowledge Graphs (Arxiv 2021)**
+  - Gavin Edwards, Sebastian Nilsson, Benedek Rozemberczki, Eliseo Papa
+  - [[Paper]](https://arxiv.org/abs/2111.10625)
+  
 - **Complex Query Answering with Neural Link Predictors (ICLR 2021, Outstanding Paper Award)**
   - Erik Arakelyan, Daniel Daza, Pasquale Minervini, Michael Cochez
   - [[Paper]](https://arxiv.org/abs/2011.03459)
