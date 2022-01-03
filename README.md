@@ -17,7 +17,7 @@ A collection of research papers and software related to explainability in graph 
 3. [Software](https://github.com/AstraZeneca/awesome-explainable-graph-reasoning/blob/master/chapters/software.md)
 4. [Theory and Survey Papers](https://github.com/AstraZeneca/awesome-explainable-graph-reasoning/blob/master/chapters/survey.md)
 
---------------------------------------------------------------------------------
+--------------------------------------------------------
 
 **License**
 
