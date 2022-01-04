@@ -113,6 +113,11 @@ The listing conforms the taxonomy introduced in this [[survey paper]](https://ar
   - [[Paper]](https://openaccess.thecvf.com/content_CVPR_2019/html/Pope_Explainability_Methods_for_Graph_Convolutional_Neural_Networks_CVPR_2019_paper.html)
   - [[Code]](https://github.com/ndey96/GCNN-Explainability)
 
+- **Evaluating Attribution for Graph Neural Networks (NeurIPS 2020)**
+  - Sanchez-Lengeling Benjamin, Wei Jennifer, Lee Brian, Reif Emily, Wang Peter, Qian Wesley, McCloskey Kevin, Colwell Lucy, Wiltschko Alexander
+  - [[Paper]](https://proceedings.neurips.cc/paper/2020/file/417fbbf2e9d5a28a855a11894b2e795a-Paper.pdf)
+  - [[Code]](https://github.com/google-research/graph-attribution)
+
 ### Concept Based Methods
 
 - **GCExplainer: Human-in-the-Loop Concept-based Explanations for Graph Neural Networks (ICML Workshop 2021)**
