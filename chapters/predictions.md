@@ -4,6 +4,11 @@ The listing conforms the taxonomy introduced in this [[survey paper]](https://ar
 
 ### Perturbation Based Methods
 
+- **MEG: Generating Molecular Counterfactual Explanations for Deep Graph Networks (IJCNN 2021)**
+  - Danilo Numeroso, Davide Bacciu
+  - [[Paper]](https://arxiv.org/abs/2104.08060)
+  - [[Reference Code]](https://github.com/danilonumeroso/meg)
+
 - **Model agnostic generation of counterfactual explanations for molecules (ChemRxiv 2021)**
   - Geemi P Wellawatte, Aditi Seshadri , Andrew D White
   - [[Paper]](https://chemrxiv.org/engage/chemrxiv/article-details/6115baf04cb4797dc42df605)
