@@ -1,6 +1,11 @@
 
 ### Explainable Reasoning
 
+- **SAFRAN: An interpretable, rule-based link prediction method outperforming embedding models (AKBC 2021)**
+  - Simon Ott, Christian Meilicke, Matthias Samwald
+  - [[Paper]](https://arxiv.org/pdf/2109.08002.pdf)
+  - [[Code]](https://github.com/OpenBioLink/SAFRAN)
+
 - **Explainable Biomedical Recommendations via Reinforcement Learning Reasoning on Knowledge Graphs (Arxiv 2021)**
   - Gavin Edwards, Sebastian Nilsson, Benedek Rozemberczki, Eliseo Papa
   - [[Paper]](https://arxiv.org/abs/2111.10625)
@@ -48,6 +53,11 @@
   - Yikun Xian, Zuohui Fu, S. Muthukrishnan, Gerard de Melo, Yongfeng Zhang
   - [[Paper]](https://arxiv.org/abs/1906.05237)
   - [[Code]](https://github.com/orcax/PGPR)
+
+- **Anytime Bottom-Up Rule Learning for Knowledge Graph Completion (IJCAI 2019)**
+  - Christian Meilicke, Melisachew Wudage Chekol, Daniel Ruffinell, Heiner Stuckenschmidt
+  - [[Paper]](https://www.ijcai.org/Proceedings/2019/0435.pdf)
+  - [[Code]](https://web.informatik.uni-mannheim.de/AnyBURL/)
 
 - **M-Walk: Learning to Walk over Graphs using Monte Carlo Tree Search (NeurIPS 2018)**
   - Yelong Shen, Jianshu Chen, Po-Sen Huang, Yuqing Guo, Jianfeng Gao
